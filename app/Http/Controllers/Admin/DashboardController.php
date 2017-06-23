@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-
+//Тест
 class DashboardController extends Controller
 {
     //Метот показа шаблона
