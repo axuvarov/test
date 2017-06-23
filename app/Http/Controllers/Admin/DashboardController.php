@@ -10,6 +10,7 @@ class DashboardController extends Controller
     //Метот показа шаблона
 	public function show()
 		{
+			//Возврат шаблона
    			return view('Admin.Dashboard.show');
 		}
 }
